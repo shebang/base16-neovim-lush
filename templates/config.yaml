@@ -1,0 +1,6 @@
+lua:
+  extension: .lua
+  output: lua/base16-lush
+vim:
+  extension: .vim
+  output: colors
